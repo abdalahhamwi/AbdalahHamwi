@@ -11,13 +11,14 @@ I am passionate about technology and programming, with a keen interest in severa
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**: For creating, deploying, and running applications using containers.
 - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) **Django and Django Rest**: Powerful frameworks for building web applications.
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) **FastAPI**: A modern, fast (high-performance) web framework for building APIs.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript & React**: For creating interactive and modern web interfaces.
-- ![React](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **TypeScript & React**: For creating fast and modern web interfaces.
+
+- ![RestAPI](https://img.shields.io/badge/-REST%20API-4CAF50?style=flat-square&logo=api&logoColor=white) **RestAPI**A modern and efficient architectural style for building scalable and interoperable web services, enabling structured communication between clients and servers.
 
 ## Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-Toktorov2-blue?style=flat-square&logo=telegram)](https://t.me/Toktorov2)
+[![Telegram](https://img.shields.io/badge/Telegram-Abdalah099-blue?style=flat-square&logo=telegram)](https://t.me/Abdalah099)
+
 
 <!---
-Toktorov/Toktorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abdalah/Abdalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
